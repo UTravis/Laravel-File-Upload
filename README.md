@@ -2,4 +2,6 @@
 
 ## This project makes use of Laravel Symbolic Links
 
-``` php artisan storage:link
+``` 
+php artisan storage:link
+```
